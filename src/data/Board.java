@@ -4,7 +4,6 @@ import java.util.Collections;
 import java.util.Stack;
 
 
-//raahhh
 public class Board {
 	private static Board instance;
 	
