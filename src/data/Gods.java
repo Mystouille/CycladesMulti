@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Stack;
 
 public class Gods {
-	
+	//Test
 	public static final int POSEIDON=3;
 	public static final int ARES=2;
 	public static final int ZEUS=1;
